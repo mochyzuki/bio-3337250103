@@ -1,0 +1,6 @@
+#Bio : Muhammad rizal Chaerul Syahputra
+
+Nim : 3337250103
+Hobi: Baca novel, baca komik
+Bahasa pemrograman favorit:Python
+Target setelah lulus : Data Scientist
