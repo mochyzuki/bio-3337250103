@@ -1,6 +1,6 @@
 # Bio: Muhammad Rizal Chaerul Syahputra
 
 - NIM: 3337250103
-- Hobi: Baca novel, baca komik
+- Hobi: Baca novel, baca komik, dan masak
 - Bahasa pemrograman favorit: Python
 - Target setelah lulus: Data Scientist
