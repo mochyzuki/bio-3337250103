@@ -1,0 +1,40 @@
+/* style.css - CSS Dasar untuk Pemula */
+
+/* Mengatur latar belakang dan jenis huruf seluruh halaman */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Mengatur kotak utama agar berada di tengah */
+.kotak-biodata {
+    background-color: #ffffff;
+    width: 300px;
+    margin: 50px auto; /* Membuat kotak berada di tengah */
+    padding: 20px;
+    border: 2px solid #333333;
+    border-radius: 10px; /* Membuat sudut kotak sedikit melengkung */
+    text-align: center; /* Membuat teks berada di tengah */
+}
+
+/* Mengatur ukuran dan bentuk foto */
+.foto-profil {
+    border-radius: 50%; /* Membuat gambar menjadi lingkaran */
+    margin-bottom: 15px;
+}
+
+/* Mengatur tombol */
+button {
+    background-color: #4CAF50; /* Warna hijau */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Efek saat tombol disorot mouse */
+button:hover {
+    background-color: #45a049;
+}
