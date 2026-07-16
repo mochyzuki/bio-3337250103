@@ -1,3 +1,0 @@
-Nama : Muhammad rizal Chaerul syahputra
-NIM : 3337250103
-Link Pertemuan 9: https://github.com/mochyzuki/Profil-app
